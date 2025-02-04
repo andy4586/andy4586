@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Amit Yadav .
-- 👀 A Responsive Web Developer.
-- 🌱 A Frontend Develper using Html,Css,And Javascript..
-- 📫 Also React And React Frameworks Like Nextjs And 
-- JavaScript Frameworks Like NodeJs And Express...
-- Mongo DB And Postgres DataBases For Storing......
-- Css Frameworks Like Tailwind Css And Sass And also
-- Bootstrap.... 
+- 👀 A Python Back-End Developer.
+- 🌱 Using Django FrameWork As Backend Server
+- 📫 Database Using Sql Lite And MySql
+- A Decent Knowledge Of Frontend Tools Like Html, Css And Javascript
+- Basic Knowledge of JavaScript Framework Like React-js..
 
