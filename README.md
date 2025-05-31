@@ -1,10 +1,24 @@
-- Hi, I’m Amit Yadav(andy) .
-- This is my Github Space where i kept my Work alltogether.
-- A Front-End Web  Developer.
-- Knowledge of Technologies like VS code, Sublime and Notepad.
-- Understanding of Html, Css, Css Libraries like Tailwind Css And Bootstrap, JavaScript(VanillaJs) And Road on Learning ReactJs..
-- Ambitious Front-End Developer With High Enthusiastic in Learning Full- Stack Web Development.
-- Developing Skills in Backend Development Using NodeJS And ExpressJs Elaborating MongoDB For NoSql Database..
+Owner: Amit Yadav (andy) 
+​
+Description: A Front-End Web Developer's GitHub space showcasing work and projects. 
+​
+Skills:
+Front-End: HTML, CSS (Tailwind CSS, Bootstrap), JavaScript (VanillaJS), ReactJS (learning). 
+​
+Back-End: NodeJS, ExpressJS, MongoDB (NoSQL database). 
+​
+Tools: VS Code, Sublime, Notepad. 
+​
+Ambition: Aspiring Full-Stack Web Developer with enthusiasm for learning and growth. 
+​
+Contact Information:
 
-$ - GITHUB REPO - andy4586@github                                                                                     My Email : amyd92486@gmail.com
+GitHub: andy4586@github 
+​
+Email: amyd92486@gmail.com
+Footer Information:
+
+© 2025 GitHub, Inc. 
+​
+Links: Terms, Privacy, Security, Status, Docs, Contact, Manage cookies.
 
